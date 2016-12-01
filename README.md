@@ -5,7 +5,7 @@ once Bob Lama has a product set for a system, how such thing will performance to
 
 The final is how can he use anything of open source.
 
-# Example : On the Bootstrap of Linux
+## Example : On the Bootstrap of Linux
 
 1. Bob Lama cannot has the idea of linux.
 2. Bob Lama cannot power on the machine, for he may cannot position where the button is.
