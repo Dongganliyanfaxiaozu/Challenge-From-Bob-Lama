@@ -18,5 +18,5 @@ The final is how can he use anything of open source.
 Some Problem of Hacking this:
 
 - The Completeness of the feedback of the machine
-- The Control Flow By his figure
+- The Control Flow By his two figure
 
