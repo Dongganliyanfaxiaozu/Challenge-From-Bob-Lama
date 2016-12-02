@@ -28,6 +28,6 @@ Some Problem of Hacking this:
 4. He cannot know anything of how the situation of his machine is as like as in linux.
 5. Once the machine crash, it means that we cannot hear the booting music for a long waiting time. (Thus, we almost can know it.)
 6. He cannot know any steps of process while the machine starting up as like as in linux.
-7. After the bootstrap, Bob Lama will hearing the sound of booting success, so he will now the point he can go to work.
+7. After the bootstrap, Bob Lama will hearing the sound of booting success, so he will know the point he can go to work.
 
 We are not point any advantages or disadvantages of difference system, we just point out that: **From Challenge of Bob Lama, how the system will performance difference. **
