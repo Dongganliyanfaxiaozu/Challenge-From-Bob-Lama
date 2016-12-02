@@ -3,6 +3,13 @@
 To promote the accessibility on open source system. Bob Lama is a transcendental hypothetical role, he has only two figure can use, no visual impairment, an often-go-wrong hearing， and no idea of any concept. Challenge-From-Bob-Lama means that,
 once Bob Lama has a product set for a system, how such thing will performance to he and how such thing will made he.
 
+```
+only two figure can use
+no visual impairment
+an often-go-wrong hearing
+no idea of any concept
+```
+
 The final is how can he use anything of open source.
 
 ## Example : On the Bootstrap of Linux
