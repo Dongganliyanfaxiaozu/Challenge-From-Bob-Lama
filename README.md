@@ -26,7 +26,7 @@ Some Problem of Hacking this:
 2. Bob Lama cannot power on the machine as like as in linux.
 3. After press the power button, Bob Lama drop in an expectation for the windows booting music. However, this is not a null-world, it is a world with the single expectation.
 4. He cannot know anything of how the situation of his machine is as like as in linux.
-5. Once the machine crash, it means that we cannot hear the booting music for a long waiting time. (Thus, we almost can know it.)
+5. Once the machine crash, it means that we cannot hear the booting music for a long waiting time. (Thus, we almost can know that the machine is crash.)
 6. He cannot know any steps of process while the machine starting up as like as in linux.
 7. After the bootstrap, Bob Lama will hearing the sound of booting success, so he will know the point he can go to work.
 
