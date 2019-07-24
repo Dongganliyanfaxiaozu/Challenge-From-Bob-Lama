@@ -1,5 +1,7 @@
 # Challenge-From-Bob-Lama
 
+![](https://dist1.github.io/Challenge-From-Bob-Lama/Challenge_From_Bob_Lama.png)
+
 To promote the accessibility on open source system. Bob Lama is a transcendental hypothetical role, he has only two figure can use, no visual impairment, an often-go-wrong hearing， and no idea of any concept. Challenge-From-Bob-Lama means that,
 once Bob Lama has a product set for a system, how such thing will performance to he and how such thing will made he.
 
@@ -39,4 +41,3 @@ Some Problem of Hacking this:
 
 We are not point any advantages or disadvantages of difference system, we just point out that: **From the challenge of Bob Lama, how the system will performance difference. **
 
-![](https://dist1.github.io/Challenge-From-Bob-Lama/Challenge_From_Bob_Lama.png)
