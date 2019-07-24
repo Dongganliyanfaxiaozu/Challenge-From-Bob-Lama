@@ -38,3 +38,5 @@ Some Problem of Hacking this:
 7. After the bootstrap, Bob Lama will hearing the sound of booting success, so he will know the point he can go to work.
 
 We are not point any advantages or disadvantages of difference system, we just point out that: **From the challenge of Bob Lama, how the system will performance difference. **
+
+![](https://dist1.github.io/Challenge-From-Bob-Lama/Challenge_From_Bob_Lama.png)
